@@ -1,16 +1,103 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Syed Hamza Ashraf</h1>
 
-<!--
-**Hamza290929/Hamza290929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI | Mathematics Graduate</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I enjoy transforming raw data into meaningful insights through data cleaning, analysis, and visualization.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👨‍💻 About Me
+
+🎓 M.Sc. Mathematics Graduate
+
+📊 Passionate about Data Analytics
+
+🐍 Python Enthusiast
+
+📈 Interested in Business Intelligence & Data Visualization
+
+🌱 Currently Learning SQL, Power BI & Advanced Data Analytics
+
+🎯 Goal: To become a professional Data Analyst
+
+📍 Uttar Pradesh, India
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming
+
+- Python
+- SQL (Learning)
+
+### Data Analysis
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### Visualization
+
+- Excel
+- Power BI (Learning)
+
+### Other Skills
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Statistics
+- Problem Solving
+- Mathematics
+
+---
+
+# 📂 Featured Project
+
+## 🎬 Netflix Content Strategy Analysis Using Python
+
+### Project Highlights
+
+✔ Cleaned 8,000+ Netflix records using Pandas & NumPy
+
+✔ Performed Exploratory Data Analysis (EDA)
+
+✔ Created 10+ Data Visualizations
+
+✔ Analyzed:
+
+- Genre Trends
+- Country-wise Content
+- Ratings Distribution
+- Release Patterns
+- Audience Preferences
+
+✔ Generated Business Insights to understand Netflix's content strategy.
+
+---
+
+# 🎯 Current Focus
+
+- Data Analytics
+- SQL
+- Power BI
+- Python Projects
+- Dashboard Development
+- Business Insights
+
+---
+
+# 📫 Connect With Me
+
+📧 Email:
+**hamzaashraf371@gmail.com**
+
+💼 LinkedIn:
+**https://www.linkedin.com/in/syedhamzaashraf**
+
+---
+
+⭐ Thank you for visiting my profile.
