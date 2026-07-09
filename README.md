@@ -107,7 +107,7 @@ I enjoy transforming raw data into meaningful insights through data cleaning, an
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hamza290929&show_icons=true&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Hamza290929&theme=github-dark"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza290929&layout=compact&theme=tokyonight"/>
 
