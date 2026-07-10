@@ -31,30 +31,25 @@ I enjoy transforming raw data into meaningful insights through data cleaning, an
 
 # 🛠️ Tech Stack
 
-### Programming
+<p align="center">
 
-- Python
-- SQL (Learning)
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
 
-### Data Analysis
+</p>
 
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+<p align="center">
 
-### Visualization
+📊 <b>Libraries:</b> Pandas • NumPy • Matplotlib • Seaborn <br><br>
 
-- Excel
-- Power BI (Learning)
+📈 <b>Tools:</b> Microsoft Excel • Power BI (Learning) <br><br>
 
-### Other Skills
+📌 <b>Core Skills:</b> Data Cleaning • Exploratory Data Analysis (EDA) • Statistics • Problem Solving • Mathematics
 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Statistics
-- Problem Solving
-- Mathematics
+</p>
 
 ---
 
