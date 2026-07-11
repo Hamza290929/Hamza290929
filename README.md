@@ -120,3 +120,16 @@ I enjoy transforming raw data into meaningful insights through data cleaning, an
 <img src="https://streak-stats.demolab.com?user=Hamza290929&theme=tokyonight"/>
 
 </p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamza290929&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza290929&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza290929&layout=compact&theme=tokyonight"/>
+</p>
